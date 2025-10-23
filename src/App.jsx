@@ -9,6 +9,7 @@ function App() {
       <h>Welcome to lab3</h>
       <p>Git actions</p>
       <p>This is ruchitha</p>
+      <p>ec-205</p>
     </div>
   );
 }
